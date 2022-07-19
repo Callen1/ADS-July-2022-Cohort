@@ -1,1 +1,2 @@
-pi = 'My name is Pi'
+pi = 3.14159265359
+name = "Regan"
